@@ -1,2 +1,2 @@
 # ios-app-preview
-Preview for features that might be implemented later.
+These are a few views for a possible app implementation.
